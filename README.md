@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dhananjay1999
 - 👀 I’m interested in programming and data engineering.
-- 🌱 I’m currently learning DBMS and Cloud Technology basics.
+- 🌱 I’m currently learning DBMS and Cloud Technology (AWS).
 - 💞️ I’m looking to collaborate on related projects to my skills.
 - 📫 How to reach me dhananjaywadhavane2016@gmail.com
