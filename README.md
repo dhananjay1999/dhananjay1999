@@ -23,7 +23,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/dh_n_nj_y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dh_n_nj_y" height="30" width="40" /></a>
 <a href="https://twitter.com/wadhavaned" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wadhavaned" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhananjay-wadhavane-6b7943170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhananjay-wadhavane-6b7943170" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13641525/dhananjay-wadhavane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13641525/dhananjay-wadhavane" height="30" width="40" /></a>
