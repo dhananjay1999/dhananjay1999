@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Website developer in TCS</h3>
 
 
-- 🔭 I’m currently working As Website Developer
+- 🔭 I’m currently working as Website Developer
 
 - 🌱 I’m currently learning **MERN Stack and supporting tools**
 
