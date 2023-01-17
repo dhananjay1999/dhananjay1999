@@ -1,23 +1,17 @@
 <h1 align="center">Hi 👋, I'm Dhananjay Wadhavane</h1>
 <h3 align="center">A passionate Website developer in TCS</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhananjay1999&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjay1999" /> </p>
 
+- 🔭 I’m currently working As Website Developer
 
-
-<p align="left"> <a href="https://twitter.com/wadhavaned" target="blank"><img src="https://img.shields.io/twitter/follow/wadhavaned?logo=twitter&style=for-the-badge" alt="wadhavaned" /></a> </p>
-
-- 🔭 I’m currently working on [Personal Website](https://www.dhananjaywadhavane.com)
-
-- 🌱 I’m currently learning **Cloud systems and Data Engineering**
+- 🌱 I’m currently learning **MERN Stack and supporting tools**
 
 - 👯 I’m looking to collaborate on **Any project related to my skills**
 
-- 💬 Ask me about **Python, AWS, MongoDB**
+- 💬 Ask me about **MongoDB, ExpressJS, ReactJS and NodeJS**
 
 - 📫 How to reach me **dhananjaywadhavane2016@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/175qckBZ8yItEeo_jslvTAK7LZIcnra5Z/view?usp=sharing](https://drive.google.com/file/d/175qckBZ8yItEeo_jslvTAK7LZIcnra5Z/view?usp=sharing)
 
 
 
