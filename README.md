@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhananjay Wadhavane</h1>
-<h3 align="center">A passionate Website developer in TCS</h3>
+<h3 align="center">A passionate Full Stack developer in TCS</h3>
 
 
-- 🔭 I’m currently working as Website Developer
+- 🔭 I’m currently working as Full Stack Developer
 
 - 🌱 I’m currently learning **MERN Stack and supporting tools**
 
